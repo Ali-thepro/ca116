@@ -1,3 +1,3 @@
 # CA116
 
-My solutions to 'CA117' lab tasks.
+My solutions to 'CA116' lab tasks.
